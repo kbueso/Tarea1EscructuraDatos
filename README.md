@@ -1,4 +1,4 @@
-# Tarea1EscructuraDatos
+# Tarea 1 Estructura de Datos
 
 # El siguiente programa de generador de contraseñas (generadorContraseñas.py) en Python toma datos previamente guardados en arreglos, ya sea letras, numeros y caracteres especiales siguiendo los lineamientos de tarea en considerar los caracteres ASCII entre rango 33 al 125.
 
